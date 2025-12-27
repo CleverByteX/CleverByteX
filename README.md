@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I’m Luis Aviles
+# 👋 Hi, I’m Luis 
 
 I build **practical systems** on the web — not demos, not toys.
 
@@ -88,7 +88,7 @@ Static sites, landing pages, and funnels.
 ---
 
 ## 📬 Contact
-- Website: https://luisaviles.me
+- Website: 
 - GitHub: you’re already here 😉
 
 ---
